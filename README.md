@@ -72,12 +72,12 @@ Ci-dessous les comptes utilisateurs disponibles après import de la base de donn
 
 ## Demo
 
-![alt text](https://github.com/Sanngithub/ProjetPHP/blob/main/pictures/demo0.png?raw=true)
+![alt text](https://github.com/JonathanMAROTTA/ProjetPHP_DUT_AS/blob/main/pictures/demo0.png?raw=true)
 
-![alt text](https://github.com/Sanngithub/ProjetPHP/blob/main/pictures/demo10.png?raw=true)
+![alt text](https://github.com/JonathanMAROTTA/ProjetPHP_DUT_AS/blob/main/pictures/demo10.png?raw=true)
 
-![alt text](https://github.com/Sanngithub/ProjetPHP/blob/main/pictures/demo20.png?raw=true)
+![alt text](https://github.com/JonathanMAROTTA/ProjetPHP_DUT_AS/blob/main/pictures/demo20.png?raw=true)
 
-![alt text](https://github.com/Sanngithub/ProjetPHP/blob/main/pictures/demo30.png?raw=true)
+![alt text](https://github.com/JonathanMAROTTA/ProjetPHP_DUT_AS/blob/main/pictures/demo30.png?raw=true)
 
-![alt text](https://github.com/Sanngithub/ProjetPHP/blob/main/pictures/demo40.png?raw=true)
+![alt text](https://github.com/JonathanMAROTTA/ProjetPHP_DUT_AS/blob/main/pictures/demo40.png?raw=true)
